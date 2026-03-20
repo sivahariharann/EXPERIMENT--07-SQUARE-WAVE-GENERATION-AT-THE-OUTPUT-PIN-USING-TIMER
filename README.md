@@ -281,7 +281,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-### FOR PULSE AT 5000
+### FOR PULSE AT 500
 
 TON = 
 TOFF=
@@ -298,7 +298,7 @@ FREQUENCY = 1 / (TOTAL TIME) = 1.43
 DUTY RATIO = TON / (TON + TOFF) = 0.5 / 0.7 = 0.71
 
 
-### FOR PULSE AT 7000
+### FOR PULSE AT 700
 
 TON = 
 TOFF=
@@ -315,7 +315,7 @@ FREQUENCY = 1 / (TOTAL TIME) = 1.33
 
 DUTY RATIO = TON / (TON + TOFF) = 0.6 / 0.75 = 0.8
 
-### FOR PULSE AT 9000
+### FOR PULSE AT 900
 
 TON = 
 TOFF=
